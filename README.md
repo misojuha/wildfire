@@ -1,2 +1,5 @@
 # wildfire
-innitial comit
+Objective:
+Monitor the temporal distribution of soil organic matter content after a wildfire.
+
+The experimental set-up was established according to the characteristics of the burned area. First, three categories of sampling areas were recognized; C – control, unaffected by fire; HS – high severity, sites where foliage and tree trunks were completely burned and soil was covered with white ash; MS – medium severity, where foliage and tree trunks were partially burned and soil was covered with black ash. Second, 120 soil samples were collected according to severity category – each category contained 40 samples. Finally, each category was subdivided according to the two vegetation species, i.e., each of the three severity categories contained 26 sample areas under Quercus pubescens Willd. and 14 sample areas under Juniperus communis L. Periodic soil sampling at the same microsite at seven days (0 MAF), 3 months (3 MAF), 6 months (6 MAF), 9 months (9 MAF), 12 months (12 MAF), 15 months (15 MAF), 18 months (18 MAF), 21 months (21 MAF) and 24 months (24 MAF) post-wildfire.
